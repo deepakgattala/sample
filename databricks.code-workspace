@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Databricks - DBFS",
+			"uri": "dbfs:/"
+		}
+	],
+	"settings": {
+		"python.envFile": "${workspaceFolder}/.databricks/.databricks.env",
+		"databricks.python.envFile": "${workspaceFolder}/.env"
+	}
+}
